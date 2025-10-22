@@ -10,7 +10,7 @@ It scans a wide variety of patterns beyond quotes: ut:, vel:, dice/significa, '=
 guillemets «», curly quotes ‘ ’ “ ”, etc. It supports multiline capture with configurable context.
 Saves: raw matches (ALL), deduplicated CSV, and a high-confidence subset.
 
-Author: ChatGPT (for Calebe Rezende)
+Author: (for Calebe Rezende)
 \"\"\"
 import re
 import os
